@@ -1,0 +1,42 @@
+The student with ID 1001 has grades 90 90 100 95
+The average is 93.75
+The grade is A
+
+The student with ID 1002 has grades 84 76 58 90
+The average is 77.00
+The grade is C
+
+The student with ID 1003 has grades 65 48 71 92
+The average is 69.00
+The grade is D
+
+The student with ID 1004 has grades 80 90 85 85
+The average is 85.00
+The grade is B
+
+The student with ID 1005 has grades 75 69 89 93
+The average is 81.50
+The grade is B
+
+The student with ID 1006 has grades 100 99 98 97
+The average is 98.50
+The grade is A
+
+The student with ID 1007 has grades 88 92 95 80
+The average is 88.75
+The grade is B
+
+The student with ID 1008 has grades 60 55 50 40
+The average is 51.25
+The grade is F
+
+The student with ID 1009 has grades 70 65 60 65
+The average is 65.00
+The grade is D
+
+The student with ID 1010 has grades 90 65 80 70
+The average is 76.25
+The grade is C
+
+
+The number of students processed was 10.

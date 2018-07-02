@@ -1,0 +1,14 @@
+Employee ID   Previous Salary   Current Salary   Increase   Comment
+1001          1000              8000             7000       Nice increase
+1002          1000              5000             4000       Fair increase
+1003          1000              2000             1000       Fair increase
+1004          1000              4000             3000       Fair increase
+1005          1000              7000             6000       Nice increase
+1006          1000              10000             9000       Nice increase
+1007          1000              6000             5000       Fair increase
+1008          1000              20000             19000       Nice increase
+1009          1000              3000             2000       Fair increase
+1010          1000              9000             8000       Nice increase
+
+The number of employees processed is 10.
+The average increase is 6400.

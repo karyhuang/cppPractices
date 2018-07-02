@@ -1,0 +1,20 @@
+First Name   Last Name   Student ID   Final Grade
+Tom          Jones       101101032    86.05
+Tim          James       101101033    89.3
+Tammy        Kaye        101101034    85.5
+Ben          Robert      101101035    83.7
+Aaron        Jones       101101036    77.55
+Carol        Lime        101101037    84.65
+Danny        White       101101038    80.9
+Evelyn       Hills       101101039    91.4
+Fanny        Man         101101040    89.65
+Gigi         Nick        101101041    90
+Helen        Patrick     101101042    82.35
+Irene        Queen       101101043    88.7
+Jackson      Ren         101101044    95.75
+Leo          Shing       101101045    94.65
+Zoe          Wu          101101046    92.85
+
+Lowest grade in class: Aaron Jones 77.55
+Highest grade in class: Jackson Ren 95.75
+Class average: 87.53
